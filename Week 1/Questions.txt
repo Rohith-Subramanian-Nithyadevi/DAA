@@ -1,7 +1,0 @@
-Questions:
-1.write a program to find sum of first n natural numbers using user defined function.
-2.write a program to find sum of squares of the first n natural numbers.
-3.write a program to find sum of cubes of the first n natural numbers.
-4.write a program to find the factorial of a given integer using recursion.
-5.write a program for transposing a 3 x 3 matrix.
-6.write a program to find Fibonacci series.
